@@ -1,6 +1,6 @@
 # Tradingview-Pinescript
 
-This google sheet is meant to convert a basket of stocks into pinescript syntax in order to create a custom indicator for Tradingview software which can track the peformance of a basket of up to 40 stocks. This is useful when trading baskets of stocks because seeing the performance of the entire basket charted out can provide a unique perspective to a trader who is trading more than one stock. We can put the price action of the basket into greater context, looking at things such as ATR and other standard deviation moves in order to determine trends or outsized moves that are ripe for mean reversion. Unfortunataley tradingview does not provide a default method to view an entire basket of stocks on their charts, so  creating this custom indicator is the next best thing.
+This google sheet is meant to convert a basket of stocks into pinescript syntax in order to create a custom indicator for Tradingview software which can track the peformance of a basket of up to 40 stocks. This is useful when trading baskets of stocks because seeing the performance of the entire basket charted out can provide a unique perspective to a trader who is trading more than one stock. We can put the price action of the basket into greater context, looking at things such as ATR and other standard deviation moves in order to determine trends or outsized moves that are ripe for mean reversion. Unfortunataley tradingview does not provide a default method to view an entire basket of stocks that exceeds 10 symbols on their charts, so  creating this custom indicator is the next best thing.
 
 Here is a link to our google sheet:
 
@@ -33,7 +33,7 @@ In addition to this, in column K, row 30 we have a further concatenation which i
 
 ![Screenshot 2024-11-08 160400](https://github.com/user-attachments/assets/fed8611a-7098-4318-8c20-023fdd1c629d)
 
-In summary, this sheet allows a user to copy and paste stock symbols of their choice into the sheet, which then automatically converts their stock selection into pinescript syntax, ready to be copied and pasted into Tradingview's pinescript editor to create a customer indicator that can track the performance of a basket of stocks via a chart that is displayed within Tradingview itself. The process is easy enough to make quick work of this task and allow a trader to make this essential task part of their daily routine. 
+In summary, this sheet allows a user to copy and paste stock symbols of their choice into the sheet, which then automatically converts their stock selection into pinescript syntax, ready to be copied and pasted into Tradingview's pinescript editor to create a custom indicator that can track the performance of a basket of stocks via a chart that is displayed within Tradingview itself. The process is easy enough to make quick work of this task and allow a trader to make this essential task part of their daily routine. 
 
 
 
